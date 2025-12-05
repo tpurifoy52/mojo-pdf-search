@@ -1,2 +1,3 @@
-# mojo-pdf-search
-Command-line PDF search engine built with Mojo
+# Mojo PDF Search Engine
+
+A command-line tool that searches PDF d
